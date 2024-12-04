@@ -1,6 +1,5 @@
 #include "day.hpp"
 #include <regex>
-#include <sstream>
 
 class Day3 : public Day {
  public:
